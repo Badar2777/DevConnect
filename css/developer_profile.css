@@ -1,0 +1,19 @@
+body.dark-mode {
+  background: #121212;
+  color: #f0f0f0;
+}
+
+.dark-mode .card,
+.dark-mode .form-control {
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+.dark-mode input::placeholder,
+.dark-mode textarea::placeholder {
+  color: #ccc !important;
+}
+
+.dark-mode .text-muted {
+  color: #ffffff !important;
+}
